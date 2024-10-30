@@ -1,0 +1,12 @@
+.wp-admin .wp-list-table.users .column-block_posting,
+.wp-admin .wp-list-table.users .block_posting{
+	text-align: center;
+}
+.wp-admin .wp-list-table.users .column-block_commenting,
+.wp-admin .wp-list-table.users .block_commenting{
+	text-align: center;
+}
+.wp-admin .wp-list-table.users .block_posting .dashicons,
+.wp-admin .wp-list-table.users .block_commenting .dashicons{
+	color: #d54e21;
+}
